@@ -1,0 +1,95 @@
+.vl {
+    border-left: 1px solid gray;
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 13px;
+  }
+  .SN{
+    height:50px;
+    width: 115px;
+    color: white;
+    background-color: #04c9d7;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+    
+  }
+  .justcamp-image {
+
+    display: flex;
+  
+    height: 25px;
+  
+    width: 130px;
+    margin-left: 10px;
+  
+  }
+  
+  .just {
+  
+    font-family: "Poppins", sans-serif;
+  
+    font-weight: 700;
+  
+    font-size: 22px;
+  
+    color: #04c9d7;
+  
+    letter-spacing: 0.2rem;
+  
+  }
+  
+  .CAMP {
+  
+    font-family: "Poppins", sans-serif;
+  
+    letter-spacing: 0.1rem;
+  
+    font-size: 22px;
+  
+  }
+  .justcamp-image1 {
+
+    display: flex;
+  
+    height: 25px;
+  
+    width: 130px;
+    margin-left: 10px;
+  
+  }
+  
+  .just {
+  
+    font-family: "Poppins", sans-serif;
+  
+    font-weight: 700;
+  
+    font-size: 22px;
+  
+    color: #04c9d7;
+  
+    letter-spacing: 0.2rem;
+  
+  }
+  
+  .CAMP1 {
+  
+    font-family: "Poppins", sans-serif;
+  
+    letter-spacing: 0.1rem;
+  
+    font-size: 22px;
+    color: white;
+  
+  }
+  /* .vlp { */
+    /* border-left: 6px solid green; */
+    /* height: 25px; */
+    /* margin-bottom: 300px; */
+    /* margin-left: 200px; */
+    
+  /* } */
+  
+
+  
